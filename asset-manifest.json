@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LandingPageJobSift/static/css/main.48eff6cd.css",
+    "main.js": "/LandingPageJobSift/static/js/main.53dfd722.js",
+    "static/js/453.0435a1b2.chunk.js": "/LandingPageJobSift/static/js/453.0435a1b2.chunk.js",
+    "static/media/why-img.jpg": "/LandingPageJobSift/static/media/why-img.26e61d455cb09c5a7201.jpg",
+    "static/media/Neutral Pink Modern Circle Shape LinkedIn Profile Picture (1).png": "/LandingPageJobSift/static/media/Neutral Pink Modern Circle Shape LinkedIn Profile Picture (1).ac4737e62cca537b63d8.png",
+    "static/media/MACLYN_April_SEO_blog_1200x628_v2.jpg": "/LandingPageJobSift/static/media/MACLYN_April_SEO_blog_1200x628_v2.163adb4a014c380f2bf8.jpg",
+    "static/media/image-removebg-preview (7).png": "/LandingPageJobSift/static/media/image-removebg-preview (7).1b9ef4be60499f036d76.png",
+    "static/media/image-removebg-preview (8).png": "/LandingPageJobSift/static/media/image-removebg-preview (8).b5ec01834515e91e59a6.png",
+    "static/media/image-removebg-preview (6).png": "/LandingPageJobSift/static/media/image-removebg-preview (6).e3e64eed1578ffe2e644.png",
+    "static/media/3135715.png": "/LandingPageJobSift/static/media/3135715.5faf09a7795d28bf5a2b.png",
+    "static/media/Design_sans_titre__11_-removebg-preview.png": "/LandingPageJobSift/static/media/Design_sans_titre__11_-removebg-preview.70098da9527341e5daeb.png",
+    "static/media/11820363.png": "/LandingPageJobSift/static/media/11820363.84c6bfadb382a9ddef77.png",
+    "static/media/146016.png": "/LandingPageJobSift/static/media/146016.5daaaeb2e0cb5fd50133.png",
+    "index.html": "/LandingPageJobSift/index.html",
+    "main.48eff6cd.css.map": "/LandingPageJobSift/static/css/main.48eff6cd.css.map",
+    "main.53dfd722.js.map": "/LandingPageJobSift/static/js/main.53dfd722.js.map",
+    "453.0435a1b2.chunk.js.map": "/LandingPageJobSift/static/js/453.0435a1b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48eff6cd.css",
+    "static/js/main.53dfd722.js"
+  ]
+}
