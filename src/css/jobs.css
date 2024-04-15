@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,500;1,500&family=Nunito+Sans:ital@1&family=Rubik:wght@600;700&display=swap');
+body{
+    background-color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    overflow-x: hidden;
+ height: 100vh;
+}
+
+.jobs2{
+  height: 120vh;
+margin-top: 100px;
+}
+
+.jobs{
+    margin-left: 100px;
+}
+
+.titles h3{
+    font-size: 40px;
+    font-weight: bold;
+}
+.titles span{
+color: rgb(200, 200, 200);
+}
+
+
+
+
+.input-container {
+    position: relative;
+  }
+  
+  .input-container input {
+    width: 70%;
+    height: 40px;
+margin-top: 10px;
+  }
+  
+  .input-container img {
+    position: absolute;
+    bottom: 7px; /* 3ks ici bottom lfo9 */
+    left: 390px; /* Ajustez la valeur pour déplacer l'image horizontalement */
+    width: 25px; /* Ajustez la largeur selon vos besoins */
+    height: auto;
+  }
+
+  .cardpopular{
+    position: relative;
+    margin: 15px;
+  }
+
+  .cardpopular div{
+    width: 110%;
+    height: 40px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border: 1px solid rgb(162, 162, 162);
+  }
+
+.cardpopular img{
+    position: absolute;
+    left: 10px;
+    top: 11px;
+}
+.cardpopular p{
+    margin-left: 25px;
+    padding: 5px;
+
+}
+
+.resumesection{
+  width: 100%;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputsection{
+  width: 100%;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+.cardes{
+  width: 100%;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width:1100px) {
+  .jobs2{
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+  .cardpopular img{
+    position: absolute;
+    left: 20px;
+    top: 11px;
+}
+  .popular{
+    margin-left: 0px;
+    
+}
+.jobs{
+  margin-left: 0px;
+}
+.cardpopular{
+  width: 100%;
+  justify-content: center;
+  margin: 5px;
+  
+}
+
+.cardpopular p{
+  margin-left: 0px;
+  font-size:0.9rem;
+  align-items: center;
+  text-align: center;
+}
+
+
+.cardpopular div{
+  width: 100%;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border-radius: 40px;
+  border: 1px solid rgb(162, 162, 162);
+}
+
+
+.input-container img {
+  position: absolute;
+  bottom: 7px; /* 3ks ici bottom lfo9 */
+  left: 170px; /* Ajustez la valeur pour déplacer l'image horizontalement */
+  width: 25px; /* Ajustez la largeur selon vos besoins */
+  height: auto;
+}
+.heading1popular{
+  width: 100%;
+}
+
+.jobs{
+    margin-left: 0px;
+}
+
+.titles h3{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.titles span{
+color: rgb(200, 200, 200);
+}
+.resumesection{
+  margin-top: 50px;
+
+}
+.popular{
+  display: block;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.popular h1{
+  margin-bottom: 20px;
+}
+.cardes{
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+
+
+
+}
