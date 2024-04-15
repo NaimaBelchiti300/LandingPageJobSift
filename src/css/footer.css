@@ -18,14 +18,14 @@ body{
 }
 h3{
     font-weight: bold;
-    color: #6C6BF9;
+    color: #dc6c5e;
 }
 li{
     color: black;
 
 }
 li::marker {
-    color: #6C6BF9; /* Couleur du cercle */
+    color: #dc6c5e; /* Couleur du cercle */
 }
 .footer3 {
     list-style: none; /* Désactiver le marqueur de liste par défaut */
@@ -42,7 +42,7 @@ li::marker {
     display: inline-block; /* Afficher comme un bloc */
     width: 24px; /* Largeur de l'image */
     height: 24px; /* Hauteur de l'image */
-    background-image: url('../images/icons8-nouveau-message-24.png'); /* Spécifier l'image */
+    background-image: url('../images/icons8-nouveau-message-30.png'); /* Spécifier l'image */
     background-size: contain; /* Ajuster la taille de l'image */
     margin-right: 15px; /* Marge à droite de l'image */
 }
