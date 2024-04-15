@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,500;1,500&family=Nunito+Sans:ital@1&family=Rubik:wght@600;700&display=swap');
+body{
+    background-color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    overflow-x: hidden;
+ height: 100vh;
+}
+.resumeheading{
+    font-weight: bold;
+    margin-bottom: 50px;
+    color: #7862E9;
+}
+.resumeheading h1{
+    font-weight: bold;
+}
+.sectionresume span{
+    font-weight: bold;
+    color:#DC6C5E ;
+}
+.resumee{
+    height: 100vh;
+    overflow-x: hidden;
+
+}
+
+
+
+@media screen and (max-width:1200px) {
+    .resumee{
+        height: auto;
+        width:100%;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        display: block;
+
+    }
+ 
+    .resumeheading{
+        font-weight: bold;
+        margin-top: 50px;
+        color: #7862E9;
+    }
+    .resumesectionpara{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .resumesectionpara .sectionresume p{
+        width: 80%;
+    }
+  .imgresume{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 100;
+
+  }
+  .imgresume img{
+    width: 100%;
+    margin-right: 100px;
+  }
+
+}
